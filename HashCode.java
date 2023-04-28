@@ -1,5 +1,5 @@
 import java.io.*;
-
+//coded by harish
 public class HashCode
 {
     public static void main(String args[])
